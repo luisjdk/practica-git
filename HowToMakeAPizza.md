@@ -1,6 +1,7 @@
-activida grupal
-cambios
-otro cambio
-prueba 1
-cambio 1
-prueba 2
+Activida Grupal
+
+7. Crear la forma de la pizza.
+
+8. Agregar los condimentos y adiciones deseados.
+
+9. Meter al horno durante 20 minutos y servir.
